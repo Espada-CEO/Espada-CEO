@@ -1,7 +1,7 @@
-- 👋 Hi, I’m the CEO of Espada
-- 👀 I’m interested in Growing my Company
+- 👋 Hi, I’m an app developer 
+- 👀 I like to contribute to open source stuff.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm below 18 years of age
+- ⚡ Fun fact: I'm 13 yrs old.
 
 <!---
 Espada-CEO/Espada-CEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
