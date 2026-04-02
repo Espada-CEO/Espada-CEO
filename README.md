@@ -1,7 +1,7 @@
 - 👋 Hi, I’m an app developer 
 - 👀 I like to contribute to open source stuff.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm 13 yrs old.
+- ⚡ Fun fact: I'm 15 yrs old.
 
 <!---
 Espada-CEO/Espada-CEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
