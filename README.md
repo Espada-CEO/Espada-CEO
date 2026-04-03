@@ -1,9 +1,4 @@
-- 👋 Hi, I’m an app developer 
+- 👋 Hi, I’m a really good-looking software engineer 
 - 👀 I like to contribute to open source stuff.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm 15 yrs old.
-
-<!---
-Espada-CEO/Espada-CEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
